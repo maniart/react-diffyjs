@@ -47,14 +47,14 @@ let output = {
 };
 const devAndDistOutput = {
   path: path.resolve(__dirname, 'dist'),
-  library: 'Diffy',
+  library: 'react-diffy',
   libraryTarget: 'umd'
 };
 const devOutput = {
-  filename: 'diffy.js'
+  filename: 'react-diffy.js'
 };
 const distOutput = {
-  filename: 'diffy.min.js'
+  filename: 'react-diffy.min.js'
 };
 const demoOutput = {
   filename: 'demo.min.js',//todo minify demo output
