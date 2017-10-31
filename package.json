@@ -54,6 +54,7 @@
   },
   "homepage": "https://github.com/maniart/react-diffyjs#readme",
   "dependencies": {
-    "diffyjs": "^1.3.4"
+    "diffyjs": "^1.3.4",
+    "react": "^16.0.0"
   }
 }
